@@ -4,12 +4,16 @@
     box-sizing: border-box;
     background-color: red;
     text-align: center;
+    align-items: center;
+    margin: auto;
 }
 
 h1{
     text-align: center;
     color: black;
     font-size: 50px;
+    margin-top: 400px;
+    padding: 10px;
 }
 p{
     text-align: center;
